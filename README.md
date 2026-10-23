@@ -1,6 +1,6 @@
 # YouTube Clone — MERN Stack Capstone Project
 
-🔗 **GitHub Repository:** [https://github.com/pragati8-tech/Develop-a-YouTube-Clone-Using-the-MERN-Stack](https://github.com/pragati8-tech/Develop-a-YouTube-Clone-Using-the-MERN-Stack)
+🔗 **GitHub Repository:** [https://github.com/OMBHOGEKAR05/Youtube-clone-Project]
 
 A full-stack YouTube clone built with **MongoDB, Express, React, and Node.js**. Users can register/login, create a channel, upload videos, watch videos, like/dislike, comment, and manage their own content.
 
