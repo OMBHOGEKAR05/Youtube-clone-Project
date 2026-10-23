@@ -233,5 +233,5 @@ Once both servers are running and the database is seeded (or you've registered m
 
 ## 👤 Author
 
-**Pragati Agrawal**
+**Om Bhogekar**
 Built as part of a MERN Stack Capstone Project.
